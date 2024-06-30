@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tooth" size="3300.000000 1720.000000" />
+    <ImageTarget name="teeth" size="3300.000000 2550.000000" />
+    <ImageTarget name="OrofacialClinicTargetEdited" size="3300.000000 1719.000000" />
+    <ImageTarget name="orofacialWaitingAreaTarget" size="3300.000000 1713.000000" />
+    <ImageTarget name="OrofacialClinicTarget" size="3300.000000 1713.000000" />
+    <ImageTarget name="lionTarget" size="3300.000000 1710.000000" />
+    <ImageTarget name="glaucomaTarget" size="3300.000000 1719.000000" />
+    <ImageTarget name="ghorillaTarget" size="3300.000000 1725.000000" />
+    <ImageTarget name="eyeWaitingAreaTarget" size="3300.000000 1710.000000" />
+    <ImageTarget name="eyeMusculesTarget" size="3300.000000 1713.000000" />
+    <ImageTarget name="eyeClinicTarget" size="3300.000000 1716.000000" />
+    <ImageTarget name="elephantTarget" size="3300.000000 1722.000000" />
+  </Tracking>
+</QCARConfig>

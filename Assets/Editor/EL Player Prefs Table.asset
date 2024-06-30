@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4b7218c015a0b64d849e35fd1496426, type: 3}
+  m_Name: EL Player Prefs Table
+  m_EditorClassIdentifier: 
+  prefs:
+  - type: 0
+    Key: ELVREgyptMode
+    value: vr
+  - type: 1
+    Key: ELEgyptSFX
+    value: 1
+  - type: 0
+    Key: ELVRQuestions
+    value: "{\"shuffle\":true,\"questions\":[{\"type\":0,\"id\":1,\"text\":\"\u0627\u0644\u062D\u0636\u0627\u0631\u0627\u062A
+      \u062A\u062A\u0635\u0627\u0631\u0639 \u0644\u0627 \u062A\u062A\u0648\u0627\u0635\u0644\",\"startTime\":8,\"endTime\":11,\"points\":15,\"shuffle\":false,\"choices\":[{\"id\":1,\"isCorrect\":false,\"text\":\"\u0635\u062D\",\"startTime\":0,\"endTime\":0},{\"id\":2,\"isCorrect\":true,\"text\":\"\u062E\u0637\u0623\",\"startTime\":0,\"endTime\":0}]},{\"type\":1,\"id\":2,\"text\":\"\u062A\u0646\u062A\u0647\u064A
+      \u0627\u0644\u0639\u0635\u0648\u0631 \u0627\u0644\u0642\u062F\u064A\u0645\u0629
+      \u0628\u0633\u0642\u0648\u0637 \u0627\u0644\u0627\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064A\u0629\",\"startTime\":53,\"endTime\":56.7,\"points\":30,\"shuffle\":true,\"choices\":[{\"id\":5,\"isCorrect\":false,\"text\":\"\u0627\u0644\u064A\u0648\u0646\u0627\u0646\u064A\u0629\",\"startTime\":56.8,\"endTime\":57.8},{\"id\":6,\"isCorrect\":true,\"text\":\"\u0627\u0644\u0631\u0648\u0645\u0627\u0646\u064A\u0629\",\"startTime\":57.9,\"endTime\":59},{\"id\":7,\"isCorrect\":false,\"text\":\"\u0627\u0644\u0645\u0635\u0631\u064A\u0629\",\"startTime\":59.1,\"endTime\":60.2},{\"id\":8,\"isCorrect\":false,\"text\":\"\u0627\u0644\u0639\u062B\u0645\u0627\u0646\u064A\u0629\",\"startTime\":60.3,\"endTime\":61.5}]}]} "
+  - type: 1
+    Key: ELVRSimulationID
+    value: 1
+  - type: 0
+    Key: ELVRQuestionsReport
+    value: '{"simulationReports":[{"simulationID":1,"timeStamp":"10/29/2018 5:32:15
+      PM","reportRecords":[{"$type":"ReportBuilder+QuestionReportRecord, Assembly-CSharp","questionID":2,"choiceID":6,"attempt":3},{"$type":"ReportBuilder+QuestionReportRecord,
+      Assembly-CSharp","questionID":1,"choiceID":2,"attempt":2}]},{"simulationID":1,"timeStamp":"10/29/2018
+      6:47:37 PM","reportRecords":[{"$type":"ReportBuilder+DragQuestionReportRecord,
+      Assembly-CSharp","questionID":0,"correctlyDraggedChoices":1}]},{"simulationID":1,"timeStamp":"10/29/2018
+      6:48:45 PM","reportRecords":[{"$type":"ReportBuilder+DragQuestionReportRecord,
+      Assembly-CSharp","questionID":0,"correctlyDraggedChoices":2}]}]}'
+  - type: 1
+    Key: ELVRUserCanHost
+    value: 0
+  - type: 0
+    Key: ELVRUserName
+    value: EL VR SDK
+  - type: 0
+    Key: SceneToLoad
+    value: 
+  - type: 1
+    Key: VirtualClassroom
+    value: 0
+  - type: 0
+    Key: ELVRVideo360Name
+    value: 

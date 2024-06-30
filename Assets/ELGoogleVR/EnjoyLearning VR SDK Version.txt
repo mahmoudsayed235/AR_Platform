@@ -1,0 +1,29 @@
+Enjoy Learning SDK Version 2018 - 11 - 05
+- Highlight Demo Scene that loop highlight effect on a cube 
+
+Enjoy Learning SDK Version 2018 - 11 - 04
+- Joystick now refreshes GVR Input Module to overcome the issues of Pointer Exit over Cardboard Targets
+- Joystick Stop when disabling Event System to stop movement 
+		"It Freezes movement until the event system get activated again"
+- Fade Manager is now under the player - it is shown now on VR - for reference check Fade Manager Demo Scene
+
+Enjoy Learning SDK Version 2018 - 10 - 31
+- Joystick "done"
+
+Enjoy Learning SDK Version 2018 - 10 - 30
+- Demo Scene for Drag Question System "done"
+- Objects Shuffler used for shuffling drag choices used in Demo Scene for Drag Question 
+
+Enjoy Learning SDK Version 2018 - 10 - 29
+- Demo Scene UI now handle landscape and work with navigation keys
+- Demo Scene for AVPro 360 Video with styled questions "done"
+- Demo Scene for Drag Question System "not done"
+
+Enjoy Learning SDK Version 2018 - 10 - 28
+- AVPro Video Plugin
+- GoogleVRForUnity_1.170.0
+- Fixed Double Pointer Bug
+- Synced PlayerPrefs Keys
+- optimized Editor Scripts
+- Removed redundant method of FadeManager -> Fadeout
+- Modified AVPro 360 Video Prefab to auto hide sphere and show 360 image
